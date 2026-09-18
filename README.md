@@ -49,7 +49,7 @@ The app is available on Uptodown.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/systeminfo.git
+git clone https://github.com/windows10fan648/systeminfo.git
 cd systeminfo
 
 ## 📄 License
