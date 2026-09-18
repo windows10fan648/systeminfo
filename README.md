@@ -51,6 +51,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/windows10fan648/systeminfo.git
 cd systeminfo
+```
 
 ## 📄 License
 
