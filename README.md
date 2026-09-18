@@ -51,3 +51,13 @@ Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/systeminfo.git
 cd systeminfo
+
+## 📄 License
+
+This project is proprietary software.
+
+Copyright © 2026 Bartek. All Rights Reserved.
+
+You may view the source code, but you may not copy, modify,
+redistribute, sublicense, or use this software or its source code
+without permission from the copyright holder.
