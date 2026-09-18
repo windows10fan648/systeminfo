@@ -56,7 +56,7 @@ cd systeminfo
 
 This project is proprietary software.
 
-Copyright © 2026 Bartek. All Rights Reserved.
+Copyright © 2026 windows10fan648. All Rights Reserved.
 
 You may view the source code, but you may not copy, modify,
 redistribute, sublicense, or use this software or its source code
